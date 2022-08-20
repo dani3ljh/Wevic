@@ -1,4 +1,10 @@
-Game Made By
-Web4L on github,
-radicwl on github, and
-dev1nchan on github
+
+# man_shruggingman_shrugging
+
+> Created with love by Web4L, radicwl, && dev1nchan.
+
+# Built using C#
+
+## Live Demo
+
+(in the works)
