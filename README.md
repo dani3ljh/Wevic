@@ -7,7 +7,7 @@
 ## Built with
 
 - Unity
-- Visual Studio
+- Visual Studio Code
 - SFXR
 
 ## Live Demo
