@@ -1,7 +1,7 @@
 
 # man_shruggingman_shrugging
 
-> Created as of Brackey's Game Jam.
+> Produced as part of Brackey's Game Jam. 
 > Created with love by Web4L, radicwl, && dev1nchan.
 
 ## Built with
