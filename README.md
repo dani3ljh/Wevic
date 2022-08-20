@@ -3,7 +3,10 @@
 
 > Created with love by Web4L, radicwl, && dev1nchan.
 
-# Built using C#
+# Built with
+
+- Unity
+- VSCode
 
 ## Live Demo
 
