@@ -7,7 +7,7 @@
 # Built with
 
 - Unity
-- VSCode
+- Visual Studio
 
 ## Live Demo
 
