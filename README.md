@@ -8,6 +8,7 @@
 
 - Unity
 - Visual Studio
+- SFXR
 
 ## Live Demo
 
