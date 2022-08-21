@@ -11,6 +11,7 @@
 -   Unity
 -   Visual Studio Code
 -   Procreate
+-   Pixel Studio
 -   SFXR
 
 ## Live Demo
