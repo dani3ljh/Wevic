@@ -1,15 +1,17 @@
-
 # man_shruggingman_shrugging
 
-> Produced as part of Brackey's Game Jam. 
-> Created with love by Web4L, radicwl, && dev1nchan.
+> Made for Brackey's Game Jam. <br>
+> Created with love by <br>
+> Web4L (Programmer), <br>
+> radicwl (Sound Designer), and <br>
+> dev1nchan (Art Designer).
 
 ## Built with
 
-- Unity
-- Visual Studio Code
-- Pixel Studio
-- SFXR
+-   Unity
+-   Visual Studio Code
+-   Pixel Studio
+-   SFXR
 
 ## Live Demo
 
