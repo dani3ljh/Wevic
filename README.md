@@ -10,7 +10,6 @@
 
 -   Unity
 -   Visual Studio Code
--   Pixel Studio
 -   Procreate
 -   SFXR
 
