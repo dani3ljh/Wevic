@@ -8,6 +8,7 @@
 
 - Unity
 - Visual Studio Code
+- Pixel Studio
 - SFXR
 
 ## Live Demo
