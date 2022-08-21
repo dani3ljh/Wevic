@@ -15,4 +15,4 @@
 
 ## Live Demo
 
-(in the works)
+https://web4l.github.io/man_shruggingman_shrugging/
