@@ -1,4 +1,4 @@
-# man_shruggingman_shrugging
+# Wevic
 
 > Made for Brackey's Game Jam. <br>
 > Created with love by <br>
@@ -16,4 +16,4 @@
 
 ## Live Demo
 
-https://web4l.github.io/man_shruggingman_shrugging/
+https://web4l.github.io/Wevic/
