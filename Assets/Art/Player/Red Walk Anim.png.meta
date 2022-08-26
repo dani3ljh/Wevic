@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 98abd3b349a7c404989d14e2af722d57
+guid: 7beaf1009c2499847807ba440a94dde4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6408835668748494317
-    second: walkinganim_0
+      213: 4897408753302016178
+    second: Red Walk Anim_0
   - first:
-      213: 7151128047413467709
-    second: walkinganim_1
+      213: -6675633062779213125
+    second: Red Walk Anim_1
   - first:
-      213: 7530243763694516879
-    second: walkinganim_2
+      213: -4374984292734466548
+    second: Red Walk Anim_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -112,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walkinganim_0
+      name: Red Walk Anim_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 178
-        height: 274
+        width: 176
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -126,20 +126,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31a946c2aed3f07a0800000000000000
-      internalID: -6408835668748494317
+      spriteID: 2b09474405717f340800000000000000
+      internalID: 4897408753302016178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walkinganim_1
+      name: Red Walk Anim_1
       rect:
         serializedVersion: 2
-        x: 178
+        x: 176
         y: 0
-        width: 178
-        height: 274
+        width: 176
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,20 +147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3a99612219ed3360800000000000000
-      internalID: 7151128047413467709
+      spriteID: bba213239136b53a0800000000000000
+      internalID: -6675633062779213125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walkinganim_2
+      name: Red Walk Anim_2
       rect:
         serializedVersion: 2
-        x: 356
+        x: 352
         y: 0
-        width: 178
-        height: 274
+        width: 176
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,8 +168,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8abc1f5eccc08860800000000000000
-      internalID: 7530243763694516879
+      spriteID: c0606a527fee843c0800000000000000
+      internalID: -4374984292734466548
       vertices: []
       indices: 
       edges: []

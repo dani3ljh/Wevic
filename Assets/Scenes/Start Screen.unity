@@ -285,7 +285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 758b6a1884cdd974e8a07446ce420ac1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainSceneName: Main
+  mainSceneName: Default Level
   creditsPanel: {fileID: 607763139}
   creditButton: {fileID: 1797425824}
   backButton: {fileID: 32060431}
