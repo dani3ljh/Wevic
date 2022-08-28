@@ -128,7 +128,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 224
+        y: 0
         width: 160
         height: 112
       alignment: 0
@@ -149,7 +149,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 224
+        y: 0
         width: 160
         height: 112
       alignment: 0
@@ -170,7 +170,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 224
+        y: 0
         width: 160
         height: 112
       alignment: 0
@@ -190,8 +190,8 @@ TextureImporter:
       name: Teleport Pad Anim_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 112
+        x: 480
+        y: 0
         width: 160
         height: 112
       alignment: 0
@@ -211,8 +211,8 @@ TextureImporter:
       name: Teleport Pad Anim_4
       rect:
         serializedVersion: 2
-        x: 160
-        y: 112
+        x: 640
+        y: 0
         width: 160
         height: 112
       alignment: 0
@@ -232,7 +232,7 @@ TextureImporter:
       name: Teleport Pad Anim_5
       rect:
         serializedVersion: 2
-        x: 0
+        x: 800
         y: 0
         width: 160
         height: 112
@@ -253,7 +253,7 @@ TextureImporter:
       name: Teleport Pad Anim_6
       rect:
         serializedVersion: 2
-        x: 160
+        x: 960
         y: 0
         width: 160
         height: 112

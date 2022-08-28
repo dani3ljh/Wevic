@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class StartScreenManager : MonoBehaviour
 {
-    [SerializeField] private string mainSceneName;
+    [SerializeField] private string firstScene;
     [SerializeField] private GameObject creditsPanel;
     [SerializeField] private Button creditButton;
     [SerializeField] private Button backButton;
@@ -22,7 +22,7 @@ public class StartScreenManager : MonoBehaviour
     
     public void StartGame()
     {
-        SceneManager.LoadScene(mainSceneName);
+        SceneManager.LoadScene(firstScene);
     }
     
     public void OpenCredits()
