@@ -16,4 +16,4 @@
 
 ## Live Demo
 
-https://web4l.github.io/Wevic/
+https://dani3ljh.github.io/Wevic/
