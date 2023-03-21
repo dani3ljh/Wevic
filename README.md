@@ -2,7 +2,7 @@
 
 > Made for Brackey's Game Jam. <br>
 > Created with love by <br>
-> Web4L (Programmer), <br>
+> dani3ljh (Programmer), <br>
 > radicwl (Sound Designer), and <br>
 > dev1nchan (Art Designer).
 
